@@ -19,11 +19,13 @@ The InceptionV3 CNN serves as the base model, and additional layers have been ap
 ### Usage
 To replicate and run this project, follow these steps:
 1. Download or clone the repository.
-2. Access the dataset from the provided Kaggle link or from the stored dataset in Google Drive.
-3. Set up Google Colab or any compatible Python environment with the necessary dependencies.
-4. Execute the notebook file to train the model and perform image classification.
+2. Run requirements.txt file
+3. Access the dataset from the provided Kaggle link or from the stored dataset in Google Drive.
+4. Set up Google Colab or any compatible Python environment with the necessary dependencies.
+5. Execute the notebook file to train the model and perform image classification.
 
 ### Dependencies
+- refer to requirements.txt file for full list
 - Python 3.x
 - TensorFlow
 - Keras
